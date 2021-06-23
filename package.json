@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-sap",
+  "version": "1.0.0",
+  "description": "demo nodejs to sap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FSFitzgerald/nodejs-sap.git"
+  },
+  "keywords": [
+    "nodejs",
+    "sap"
+  ],
+  "author": "NVT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FSFitzgerald/nodejs-sap/issues"
+  },
+  "homepage": "https://github.com/FSFitzgerald/nodejs-sap#readme",
+  "dependencies": {
+    "node-rfc": "^2.4.3"
+  }
+}
